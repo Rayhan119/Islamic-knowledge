@@ -1,0 +1,18 @@
+.header-top {
+  background-color: #373637;
+  margin: 0;
+  padding: 5px 0;
+}
+
+.contact {
+  color: white;
+}
+.info {
+  color: white;
+  text-align: right;
+}
+.contact i,
+.info i {
+  color: #fea621a8;
+  margin: 0 7px;
+}

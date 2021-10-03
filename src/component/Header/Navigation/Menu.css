@@ -1,0 +1,28 @@
+.navigation-area {
+  padding: 10px 0;
+}
+.nav-area {
+  text-align: end;
+  padding: 10px 0;
+}
+.nav-area a {
+  text-decoration: none;
+  margin-left: 20px;
+  color: white;
+  background-color: #f8aa25;
+  padding: 7px 12px;
+  border-radius: 3px;
+  transition: 0.5s;
+}
+.nav-area a:hover {
+  color: white;
+  background-color: coral;
+}
+.logo-text {
+  text-align: start;
+}
+.logo-text span {
+  color: #f8aa25;
+  font-weight: bold;
+  font-size: 26px;
+}
