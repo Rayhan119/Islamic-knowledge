@@ -1,0 +1,33 @@
+/* contact header section design */
+.contact-header {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 8px;
+}
+.contact-section {
+  padding: 60px;
+  text-align: center;
+}
+.contact-section h1 {
+  color: #fea621;
+}
+.contact-section i {
+  text-align: center;
+  font-size: 45px;
+  color: rgb(212, 205, 205);
+}
+/* cart design */
+.cart-section {
+  padding: 20px 0;
+  height: 300px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border-radius: 10px;
+  border: none;
+  transition: 0.5s;
+}
+/* cart hove effect */
+.cart-section:hover {
+  background-color: #1d1c1ba1;
+  color: white;
+}

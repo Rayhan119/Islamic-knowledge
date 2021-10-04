@@ -1,0 +1,65 @@
+/* design services area */
+.services {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.services-area {
+  text-align: center;
+  padding: 50px 0;
+}
+.services-area h1 {
+  color: #f8aa25;
+  font-weight: bold;
+}
+.services-area h5 {
+  color: maroon;
+}
+.services-section {
+  padding-top: 20px;
+  padding-bottom: 150px;
+}
+/* design home section */
+.home-section-top {
+  padding-top: 70px;
+}
+.home-section-top h2 {
+  font-weight: bold;
+  color: #f8aa25;
+  padding: 15px 0;
+  text-align: center;
+}
+.home-section-top p {
+  text-align: justify;
+}
+/* welcome button design */
+.welcome-btn {
+  background-color: #f8aa25;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  transition: 0.5s;
+  margin-top: 10px;
+}
+.welcome-btn:hover {
+  background-color: coral;
+}
+/* main section design */
+.main-img {
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-gap: 10px;
+  padding-top: 80px;
+  padding-left: 10px;
+}
+.main-img img {
+  width: 100%;
+}
+.top-img img {
+  height: 250px;
+}
+.down-img {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 8px;
+}

@@ -1,3 +1,4 @@
+//Import form react dom and internal react.
 import React from "react";
 import { Container, Row } from "react-bootstrap";
 import "./Footer.css";
@@ -39,6 +40,7 @@ const Footer = () => {
                 <li>Quranic Grammer</li>
               </ul>
             </div>
+            {/* social icon */}
             <div className="social-icon">
               <h4>Social Links</h4>
               <i class="fab fa-facebook"></i>
@@ -47,6 +49,7 @@ const Footer = () => {
               <i class="fab fa-instagram-square"></i>
             </div>
           </div>
+          {/* footer end */}
           <p className="pt-5">
             Copyright © 2020 - 2021{" "}
             <span className="footer-span">Islamicknowledge.com.</span> All

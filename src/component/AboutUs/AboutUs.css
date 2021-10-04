@@ -1,0 +1,44 @@
+.about-us-section {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 5px 0;
+}
+.about-main-section {
+  padding-bottom: 150px;
+  padding-top: 40px;
+}
+.about-top h2,
+.team-header {
+  text-align: center;
+  padding: 10px 0;
+  color: #fea621;
+  font-weight: bold;
+}
+.about-top {
+  padding: 40px 0;
+  width: 60%;
+  height: auto;
+  text-align: justify;
+  margin: auto;
+}
+.teams {
+  text-align: center;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  background-color: rgb(247, 247, 247);
+  border-radius: 10px;
+  padding-bottom: 10px;
+}
+.teams h4 {
+  color: maroon;
+  margin-top: 10px;
+}
+.teams span {
+  color: coral;
+  font-weight: bold;
+  font-size: 20px;
+}
+.teams img {
+  width: 100%;
+  height: 270px;
+}

@@ -1,0 +1,21 @@
+/* service item design */
+.service-item {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+.services-item-section {
+  padding-top: 20px;
+  padding-bottom: 150px;
+}
+.services-item-area h5 {
+  color: maroon;
+}
+.services-item-area {
+  text-align: center;
+  padding: 50px 0;
+}
+.services-item-area h1 {
+  color: #f8aa25;
+  font-weight: bold;
+}

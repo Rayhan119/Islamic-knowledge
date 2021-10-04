@@ -1,9 +1,10 @@
+/* navigation design */
 .navigation-area {
-  padding: 10px 0;
+  padding: 30px 0;
 }
 .nav-area {
   text-align: end;
-  padding: 10px 0;
+  padding: 5px 0;
 }
 .nav-area a {
   text-decoration: none;
@@ -14,10 +15,12 @@
   border-radius: 3px;
   transition: 0.5s;
 }
+/* hover effect */
 .nav-area a:hover {
   color: white;
   background-color: coral;
 }
+/* logo area design */
 .logo-text {
   text-align: start;
 }
