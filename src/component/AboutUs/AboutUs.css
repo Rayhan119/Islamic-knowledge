@@ -1,3 +1,4 @@
+/* about area design */
 .about-us-section {
   text-align: center;
   background-color: black;
@@ -22,6 +23,7 @@
   text-align: justify;
   margin: auto;
 }
+/* team are design */
 .teams {
   text-align: center;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);

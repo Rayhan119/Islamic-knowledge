@@ -1,3 +1,4 @@
+//import react,react bootstrap
 import React from "react";
 import "./AboutUs.css";
 import { Col, Container, Row } from "react-bootstrap";
@@ -11,6 +12,7 @@ const AboutUs = () => {
   return (
     <div>
       <Header></Header>
+      {/* about us top section */}
       <div className="about-us-section">
         <h1>About Us</h1>
       </div>
@@ -38,6 +40,7 @@ const AboutUs = () => {
               more professional and usable InShaAllah.
             </p>
           </div>
+          {/* our team members area */}
           <h2 className="team-header">Our Teams</h2>
           <Col>
             <div className="teams">
