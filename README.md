@@ -20,3 +20,8 @@
     <li>Fontawesome</li>
 
 </ul>
+<h3>Tools</h3>
+<ul>
+    <li>Netlify</li>
+    <li>vs code</li>
+</ul>
